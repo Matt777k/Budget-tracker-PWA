@@ -8,7 +8,7 @@ const FILES_TO_CACHE = [
   '/styles.css',
   '/manifest.webmanifest',
   '/index.js',
-  '../models/transaction.js'
+  'db.js'
 ];
 
 self.addEventListener('install', function(event) {
